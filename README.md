@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by Darshil Parmar
+# Data Engineering YouTube Analysis Project by Kishore kumar (inspired from a YT creator)
 
 ## Overview
 
